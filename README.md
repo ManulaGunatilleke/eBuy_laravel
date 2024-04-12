@@ -1,10 +1,10 @@
 ### E-Commerce System
 
 Technology Stacks and used for the System 
- - ** PHP
- - ** Laravel Framework 
- - ** Bootstrap
- - ** MySQL
+ -  PHP
+ -  Laravel Framework 
+ -  Bootstrap
+ -  MySQL
 
 ## Set up the project 
 
