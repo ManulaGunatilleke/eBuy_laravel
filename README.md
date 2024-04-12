@@ -22,8 +22,8 @@ npm install
 
 ### 3. .env file configurations:
 
-APP_NAME="ebuy"
-DB_DATABASE=ebuy
+- APP_NAME="ebuy"
+- DB_DATABASE=ebuy
 
 Note: change your password accordingly
 
