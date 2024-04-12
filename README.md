@@ -11,7 +11,7 @@ Technology Stacks and used for the System
 ### 1. Clone the repository:
 
 ``` bash
-https://github.com/ManulaGunatilleke/eBuy_laravel.git
+git clone https://github.com/ManulaGunatilleke/eBuy_laravel.git
 ```
 
 ### 2. Install dependencies:
